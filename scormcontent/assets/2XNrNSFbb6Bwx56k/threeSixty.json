@@ -1,0 +1,27 @@
+{
+  "version": "3.62.27443.0",
+  "course_id": "6MxDpFmSF8c",
+  "title": "Take a Tour of Seismic",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "64WLD4rDBvs",
+      "title": "Homepage",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 634
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
